@@ -1,6 +1,6 @@
 TODO:
+- Test 1: description 1
+- Test 2: gooze
 
 DONE:
-- Test 1: description 1
 - Test 3: description 1
-- Test 2: gooze
