@@ -1,4 +1,7 @@
 TODO:
-- Card 1: card 1 content
+- V2: Archive list, to store deleted cards.
+- V1.5: More stylish interface.
+- V1.6: Add a file history, saved on browser cache.
 
 DONE:
+- V1: First working version of the app.
