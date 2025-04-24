@@ -1,8 +1,8 @@
 TODO:
-- Test 1: description 1
-- Test 2: gooze
 - Test added 1: description sfsdg
 
 DONE:
+- Test 1: description 1
+- Test 2: gooze
 - Test 3: description 1
 - Title added 2 finished: description zer
